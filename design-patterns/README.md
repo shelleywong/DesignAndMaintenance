@@ -9,8 +9,8 @@
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
 | Composite | Structural |   |   |   |   |   |   |
-| Dectorator | Structural |   |   |   |   |   |   |
-| Facade | Structural |   |   | [Ride Analyzer Facade](facade-java/) |   |   |   |
+| Decorator | Structural |   |   |   |   |   |   |
+| Facade | Structural |   |   | [Ride Analyzer](facade-java/) |   |   |   |
 | Factory Method | Creational |   |   |   |   |   |   |
 | Flyweight | Structural |   |   |   |   |   |   |
 | Interpreter | Behavioral |   |   |   |   |   |   |
@@ -20,7 +20,7 @@
 | Observer | Behavioral |   |   |   |   |   |   |
 | Prototype | Creational |   |   |   |   |   |   |
 | Proxy | Structural |   |   |   |   |   |   |
-| Singleton | Creational | [Game Records](singleton-cpp/) |   | [Inventory](singleton-java/) |   |   |   |
+| Singleton | Creational | [Game Records](singleton-cpp/) |   | [Inventory](singleton-java) |   |   |   |
 | State | Behavioral |   |   |   |   |   |   |
 | Strategy | Behavioral |   |   |   |   |   |   |
 | Template Method | Behavioral |   |   |   |   |   |   |
