@@ -3,14 +3,14 @@
 | Design Pattern | Category | C++ | C# | Java | JavaScript | Python | Ruby |
 |---|---|---|---|---|---|---|---|
 | Abstract Factory | Creational |   |   | [Publish Factory](abstract-factory-java/) |   |   |   |
-| Adapter | Structural |   |   |   |   |   |   |
+| Adapter | Structural |   |   | [Temperature Adapter](adapter-java/) |   |   |   |
 | Builder | Creational |   |   |   |   |   |   |
 | Bridge | Structural |   |   |   |   |   |   |
 | Chain of Responsibility | Behavioral |   |   |   |   |   |   |
 | Command | Behavioral |   |   |   |   |   |   |
 | Composite | Structural |   |   |   |   |   |   |
 | Dectorator | Structural |   |   |   |   |   |   |
-| Facade | Structural |   |   |   |   |   |   |
+| Facade | Structural |   |   | [Ride Analyzer Facade](facade-java/) |   |   |   |
 | Factory Method | Creational |   |   |   |   |   |   |
 | Flyweight | Structural |   |   |   |   |   |   |
 | Interpreter | Behavioral |   |   |   |   |   |   |
